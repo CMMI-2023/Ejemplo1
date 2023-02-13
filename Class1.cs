@@ -12,9 +12,8 @@ namespace ConsoleApp1
         {
             int z=0;
             int x=0;
+
             int y=0;
-            //Pruebrajksnfljdsanafñks
-            int z = 3;
         }
     }
 }
