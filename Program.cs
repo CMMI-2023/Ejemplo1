@@ -10,18 +10,10 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+           //holi amigues
             //hola bbs
-            //sssssss
 
-
-
-
-
-
-
-
-
-            //comentario
+            //La machorra esta enojada
         }
     }
 }
