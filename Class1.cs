@@ -25,6 +25,11 @@ namespace ConsoleApp1
             {
                 Console.WriteLine("Chuy no le sabe");
             }
+
+            while (true)
+            {
+                Console.WriteLine("Chuy no le sabe");
+            }
         }
     }
 }
