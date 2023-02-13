@@ -14,6 +14,10 @@ namespace ConsoleApp1
             //hola bbs
 
             //La machorra esta enojada
+            for(int i = 0; i < x; i++)
+            {
+                Console.WriteLine(i);
+            }
         }
     }
 }
