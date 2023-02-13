@@ -14,7 +14,16 @@ namespace ConsoleApp1
             int x=0;
             int y=0;
             //Pruebrajksnfljdsanafñks
-            int z = 3;
+            //int z = 3;
+
+
+
+
+
+            for (int i = 0; i < 10; i++)
+            {
+                Console.WriteLine("Chuy no le sabe");
+            }
         }
     }
 }
