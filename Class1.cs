@@ -18,7 +18,7 @@ namespace ConsoleApp1
             //int z = 3;
 
 
-
+            //lemoso pedorro
 
 
             for (int i = 0; i < 10; i++)
