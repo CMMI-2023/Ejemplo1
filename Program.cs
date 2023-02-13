@@ -17,6 +17,7 @@ namespace ConsoleApp1
             int x = 10;
             for(int i = 0; i < x; i++)
             {
+                Console.WriteLine("I= ")
                 Console.WriteLine(i);
             }
         }
