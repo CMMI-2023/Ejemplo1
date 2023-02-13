@@ -11,6 +11,8 @@ namespace ConsoleApp1
         public void metodagregar ()
         {
             int x=0;
+            int y=0;
+            //Pruebrajksnfljdsanafñks
         }
     }
 }
