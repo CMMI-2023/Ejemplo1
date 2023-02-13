@@ -10,10 +10,15 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-           //holi amigues
+            //holi amigues
             //hola bbs
 
             //La machorra esta enojada
+            int x = 10;
+            for(int i = 0; i < x; i++)
+            {
+                Console.WriteLine(i);
+            }
         }
     }
 }
