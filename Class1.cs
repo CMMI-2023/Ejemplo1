@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         public void metodagregar ()
         {
-            int y = 0;
+            int x=0;
         }
     }
 }
